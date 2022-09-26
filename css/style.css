@@ -1,0 +1,34 @@
+.debug{
+    min-height: 50px;
+    border: 1px solid white;
+    background-color:#006CFA ;
+    color: white;
+}
+.debug2{
+    min-height: 50px;
+    border: 1px solid white;
+    background-color:#00E165 ;
+    color: white;
+    
+}
+.debug3{
+    min-height: 50px;
+    border: 1px solid white;
+    background-color:#006CFA ;
+    color: white;
+}
+.center{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.pading{
+    padding: 10px 10px;
+    border: 1px solid;
+}
+.blu{
+    border: 1px solid #006CFA;
+}
+.giu{
+    padding-top: 1rem;
+}
